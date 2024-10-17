@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "HTML",
+      "category": "frontend"
+    },
+    {
+      "id": "2",
+      "name": "CSS",
+      "category": "frontend"
+    },
+    {
+      "id": "3",
+      "name": "JavaScript",
+      "category": "frontend"
+    },
+    {
+      "id": "4",
+      "name": "Python",
+      "category": "backend"
+    },
+    {
+      "id": "5",
+      "name": "Ruby",
+      "category": "backend"
+    },
+    {
+      "id": "6",
+      "name": "Java",
+      "category": "backend"
+    },
+    {
+      "id": "7",
+      "name": "PHP",
+      "category": "backend"
+    },
+    {
+      "id": "8",
+      "name": "SQL",
+      "category": "backend"
+    },
+    {
+      "id": "9",
+      "name": "C#",
+      "category": "backend"
+    },
+    {
+      "id": "10",
+      "name": "CSS",
+      "category": "frontend"
+    }
+  ]
+}

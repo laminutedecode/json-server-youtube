@@ -1,0 +1,14 @@
+{
+  "data": [
+    {"id": 1, "langage": "HTML", "categorie": "frontend"},
+    {"id": 2, "langage": "CSS", "categorie": "frontend"},
+    {"id": 3, "langage": "JavaScript", "categorie": "frontend"},
+    {"id": 4, "langage": "Python", "categorie": "backend"},
+    {"id": 5, "langage": "Ruby", "categorie": "backend"},
+    {"id": 6, "langage": "Java", "categorie": "backend"},
+    {"id": 7, "langage": "PHP", "categorie": "backend"},
+    {"id": 8, "langage": "SQL", "categorie": "backend"},
+    {"id": 9, "langage": "C#", "categorie": "backend"}
+]
+
+}
